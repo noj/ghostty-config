@@ -1,7 +1,5 @@
-# font-family = FiraCode Nerd Font, Light
 font-family = Monaspace Neon
-# font-family = Maple Mono NL
 font-size = 10
 window-decoration = false
 theme = vesper
-# background-opacity = 0.8
+mouse-hide-while-typing = true
